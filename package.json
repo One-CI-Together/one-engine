@@ -1,8 +1,8 @@
 {
    "name": "one-engine",
-   "version": "1.0.3",
+   "version": "1.0.5",
    "description": "Toolkit para projetos da One CI",
-   "main": "dist/index.js",
+   "main": "dist/src/index.js",
    "repository": "https://github.com/one-ci-together/one-engine",
    "author": "Thiago Silva",
    "license": "MIT",
@@ -36,6 +36,6 @@
    },
    "scripts": {
       "test": "ts-node-dev --transpile-only src/test.ts",
-      "build": "tsc"
+      "build": "tsc --declaration"
    }
 }
