@@ -1,6 +1,6 @@
 {
-   "name": "one-engine",
-   "version": "1.0.5",
+   "name": "one_engine",
+   "version": "0.0.2",
    "description": "Toolkit para projetos da One CI",
    "main": "dist/src/index.js",
    "repository": "https://github.com/one-ci-together/one-engine",
@@ -22,13 +22,9 @@
       "typescript": "^4.7.4"
    },
    "dependencies": {
-      "ajv": "^8.11.0",
-      "ajv-formats": "^2.1.1",
       "aws-sdk": "^2.1152.0",
       "axios": "^0.27.2",
       "dotenv": "^16.0.1",
-      "express": "^4.18.1",
-      "express-fileupload": "^1.4.0",
       "node": "^18.5.0",
       "pg": "^8.4.0",
       "reflect-metadata": "^0.1.13",
