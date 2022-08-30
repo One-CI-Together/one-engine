@@ -1,6 +1,6 @@
 {
    "name": "one_engine",
-   "version": "0.0.6",
+   "version": "0.0.7",
    "description": "Toolkit para projetos da One CI",
    "main": "dist/index.js",
    "repository": "https://github.com/one-ci-together/one-engine",
