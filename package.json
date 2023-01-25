@@ -1,6 +1,6 @@
 {
    "name": "one_engine",
-   "version": "0.1.14",
+   "version": "0.1.15",
    "description": "Toolkit para projetos da One CI",
    "main": "dist/index.js",
    "repository": "https://github.com/one-ci-together/one-engine",
@@ -26,6 +26,7 @@
       "aws-sdk": "^2.1152.0",
       "axios": "^0.27.2",
       "dotenv": "^16.0.1",
+      "mimemessage": "^1.0.5",
       "node": "^18.5.0",
       "nodemailer": "^6.8.0",
       "uuid": "^8.3.2"
