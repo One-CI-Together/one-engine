@@ -5,7 +5,5 @@ build/
 tmp/
 temp/
 .env
-dist
-dist/
 yarn.lock
 yarn-error.log
